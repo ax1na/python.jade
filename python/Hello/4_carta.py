@@ -1,8 +1,8 @@
 #jade rojas
 #10-3-25
 
-print("                                                                                      ")
-print("    futura jade                                                                       ")
+print("                                                                 Marzo 2025           ")
+print("    futura jade                                                   santiago de Chile   ")
 print("                                                                                      ")
 print("         no se para que escribo esta carta, pero lo que se ahora mismo esque quiero   ")
 print("         dormir y descansar ya que me duele mucho la cabeza y ya estoy estresada y    ")
