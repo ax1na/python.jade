@@ -1,4 +1,4 @@
-#Alexander Uribe  09/04
+#jade rojas  09/04
 
 edad = int(input("¿Cuantos años tienes?"))
 if edad == 17:

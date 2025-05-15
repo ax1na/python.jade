@@ -1,4 +1,4 @@
-#Alexander Uribe 30/04
+#jade rojas 30/04
 
 cuenta = [10,9,8,7,6,5,4,3,2,1,"¡Feliz año nuevo! 🎉🎉"]
 

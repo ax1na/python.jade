@@ -1,4 +1,4 @@
-#Alexander Uribe  09/04
+#jade rojas 09/04
 
 ranting = float(input("¿Cuantas estrellas le das a este restaurante?"))
 if ranting >=4.5:

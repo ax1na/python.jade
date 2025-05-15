@@ -1,4 +1,4 @@
-#Alexander Uribe 30/04
+#jade rojas 30/04
 
 respuesta = input("¿Ya llegamos?")
 
